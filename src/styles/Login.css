@@ -1,0 +1,16 @@
+.center {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  text-align: center;
+}
+.lable,
+.isAdmin {
+  margin: 1rem;
+}
+.card {
+  padding: 1rem;
+}

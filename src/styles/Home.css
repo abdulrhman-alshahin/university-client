@@ -1,0 +1,26 @@
+.homeFace {
+  margin: 4rem 0 !important;
+  justify-content: center;
+  align-items: center;
+}
+
+.homeFace h1 {
+  margin-top: 1rem;
+}
+.newsCard {
+  margin: 1rem;
+}
+.generate {
+  justify-content: center;
+  align-items: center;
+}
+
+.homeContent {
+  padding-top: 3rem;
+}
+.linkStyle {
+  color: #000;
+  font-weight: bold;
+  text-transform: capitalize;
+  text-align: right;
+}
